@@ -1,6 +1,6 @@
 {
   "name": "COMP2156",
-  "description": "Comp2156 Labs",
+  "description": "Comp2156 Exercises",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
