@@ -1,6 +1,6 @@
 {
-  "name": "comp2156",
-  "description": "",
+  "name": "COMP2156",
+  "description": "Comp2156 Labs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -22,12 +22,12 @@
     "url": "https://github.com/DylanAPereira/COMP2156/issues"
   },
   "homepage": "https://github.com/DylanAPereira/COMP2156#readme",
-    "dependencies": {
+  "dependencies": {
     "14": "^1.0.1",
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
+    "react-scripts": "^2.1.5",
     "travis": "^0.1.1",
     "yarn": "^1.13.0"
   },
@@ -39,5 +39,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-]
+  ]
 }
